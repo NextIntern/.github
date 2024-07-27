@@ -1,7 +1,7 @@
 # NextIntern - Internship Management System
 
 <div align="center">
-    <img src="../assets/logo.png" alt="NextIntern" width="100" />
+    <img src="../assets/logo.png" alt="NextIntern" width="80" />
     <p><a href="https://nextintern.tech">NextIntern</a> is a web application that manage and evaluate internships.</p>
 </div>
 
