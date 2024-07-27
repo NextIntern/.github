@@ -23,10 +23,7 @@ The web application streamlines the management of internships at NextBean compan
 
 ## 3. Demostration
 
-<video controls>
-  <source src="../assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/247e94a3-f05b-4161-91fd-2b0a130cd254
 
 ## 4. Techstacks
 
