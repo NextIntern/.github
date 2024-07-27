@@ -5,26 +5,30 @@
     <p><a href="https://nextintern.tech">NextIntern</a> is a web application that manage and evaluate internships.</p>
 </div>
 
-## 0. Introduction
+## 1. Introduction
 
 The web application streamlines the management of internships at NextBean company. It optimizes processes, enhances student-company interactions, and provides analytics for evaluating performance. This creates a positive internship environment and supports growth and success.
 
 - Admin can manage internship details, assign tasks, and generate reports.
-- Mentors can track intern attendance, provide feedback, and monitor progress.
 - Interns can log their attendance, submit tasks, and receive evaluations.
 
-https://github.com/NextIntern/.github/assets/demo.mp4
+## 2. Team members
 
-## 1. Team members
-
-- [Tran Hai Dang](https://github.com/hdang09): Project Manager
+- [Tran Hai Dang](https://github.com/hdang09): Project Leader
 - [Nguyen Ngoc Tuong Vy](https://github.com/vynguyenngoc): Front-end Developer
 - [Pham Thi Ngoc Anh](https://github.com/lachimo): Front-end Developer
 - [Truong Dinh Dong Duong](https://github.com/iamdwn): Back-end Developer
 - [Pham Huy Anh Dung](https://github.com/dungpha13): Back-end Developer
-- [Le Van Dao](https://github.com/daoargen): Back-end Developer
+- [Le Van Dao](https://github.com/daoargen): Mobile Developer
 
-## 2. Techstacks
+## 3. Demostration
+
+<video controls>
+  <source src="../assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## 4. Techstacks
 
 <img src="../assets/tech-stacks.png" />
 
@@ -74,7 +78,7 @@ NEXT_PUBLIC_MESSAGING_SENDER_ID = 70620445277
 NEXT_PUBLIC_APP_ID = 1:70620445277:web:ba91f5a29291e0bd28ebb4
 ``` -->
 
-## 3. Business Rules
+<!-- ## 5. Business Rules
 
 | ID     | Description                                                                                                                                                   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,16 +105,16 @@ NEXT_PUBLIC_APP_ID = 1:70620445277:web:ba91f5a29291e0bd28ebb4
 | BR-021 | Online Form Submission: Users can submit forms (e.g., evaluation forms) online through the web application                                                    |
 | BR-022 | Real-time Updates: The system must provide real-time updates to users regarding feedback changes                                                              |
 | BR-023 | Access Controls: The system must enforce access controls, ensuring users can only access features and data relevant to their role                             |
-| BR-024 | Modification Tracking: The system must track modifications to key entities (e.g., Universities, Campaigns, Interns) and update Modify Date automatically.     |
+| BR-024 | Modification Tracking: The system must track modifications to key entities (e.g., Universities, Campaigns, Interns) and update Modify Date automatically.     | -->
 
-## 4. Use case diagram
+## 5. Use case diagram
 
 <img src="../assets/usecase.png" />
 
-## 5. ERD Logical
+## 6. ERD Logical
 
 <img src="../assets/erd-logical.png" />
 
-## 5. ERD Conceptual
+## 7. ERD Conceptual
 
 <img src="../assets/erd-conceptual.png" />
