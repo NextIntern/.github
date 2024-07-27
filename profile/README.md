@@ -21,7 +21,7 @@ The web application streamlines the management of internships at NextBean compan
 - [Pham Huy Anh Dung](https://github.com/dungpha13): Back-end Developer
 - [Le Van Dao](https://github.com/daoargen): Mobile Developer
 
-## 3. Demostration
+## 3. Demonstration
 
 https://github.com/user-attachments/assets/247e94a3-f05b-4161-91fd-2b0a130cd254
 
